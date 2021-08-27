@@ -1,6 +1,6 @@
 # Olá Terraqueo!! Seja bem vindo ao meu perfil.
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=thaffatss&show_icons=true&theme=dark">
+  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=thaffatss&show_icons=true&theme=dark">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaffatss&layout=compact&langs_count-16&theme=dark"
 </div>
 <br><br><br>
