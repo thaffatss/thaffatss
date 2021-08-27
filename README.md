@@ -5,19 +5,19 @@
 </div>
 <br><br><br>
 <div style="display: inline_block">
-  <img src='https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/css3-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/mysql-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/mongodb-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/vuejs-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/react-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/react-original.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/nodejs-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/docker-original-wordmark.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/angularjs-original.svg?size=32&color=currentColor'>
-  <img src='https://icongr.am/devicon/php-original.svg?size=32&color=currentColor'>
+  <img src='https://icongr.am/devicon/html5-original.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/css3-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/javascript-original.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/typescript-original.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/mongodb-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/vuejs-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/react-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/react-original.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/nodejs-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/docker-original-wordmark.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/angularjs-original.svg?size=48&color=currentColor'>
+  <img src='https://icongr.am/devicon/php-original.svg?size=48&color=currentColor'>
 </div>
 <br><br>
 <div>
